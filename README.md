@@ -5,7 +5,7 @@ This is an Android Application to see surveys.
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
-git clone https://github.com/ajidres/movies.git
+git clone https://github.com/ajidres/surveys
 ```
 
 ## Configuration
