@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option java_package = "com.nimble.surveys";
+option java_multiple_files = true;
+
+message LoginItem {
+
+  string accessToken = 1;
+  int32 createdAt = 2;
+  int32 expiresIn = 3;
+  string refreshToken = 4;
+  string tokenType = 5;
+
+}
+
+message SurveysItems{
+  string title = 1;
+  string description = 2;
+  string coverImageUrl = 3;
+}
+
+message SurveysList {
+  int32 pageSize = 1;
+  repeated SurveysItems surveys = 2;
+}
+

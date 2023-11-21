@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Surveys</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="error_password">Please, enter a valid password</string>
+    <string name="error_email">Please, enter a valid email</string>
+    <string name="today">Today</string>
+    <string name="forgot">Forgot?</string>
+    <string name="reset">Reset</string>
+    <string name="reset_disclaimer">Enter your email to receive instructions for resetting your password.</string>
+</resources>
