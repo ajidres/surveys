@@ -10,7 +10,7 @@ git clone https://github.com/ajidres/surveys
 
 ## Configuration
 ### Keystores:
-Create a file `app/secrets.properties` under folder surveys with the following info:
+Create a file `secrets.properties` under folder surveys with the following info:
 ```gradle
 ENDPOINT_URL='...'
 CLIENT_ID='...'
